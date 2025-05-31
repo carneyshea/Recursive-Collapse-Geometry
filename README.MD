@@ -69,5 +69,5 @@ For Temporaxis-related licensing or collaboration inquiries: [neurolighthouse@gm
   title={Recursive Collapse Geometry},
   author={Carney Shea Pryately},
   year={2025},
- https://doi.org/10.5281/zenodo.15558527},
+DOI 10.5281/zenodo.15558527.},
   howpublished={\url{https://github.com/carneyshea/Recursive-Collapse-Geometry}}
