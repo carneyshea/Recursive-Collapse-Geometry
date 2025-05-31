@@ -1,0 +1,76 @@
+cff-version: 1.2.0
+message: "If you use Recursive Collapse Geometry (RCG) in your work, please cite it using the following metadata."
+title: "Recursive Collapse Geometry: A Universal Flat Loop Collapse Detection Framework"
+authors:
+
+family-names: Pryately
+given-names: Carney
+affiliation: NeuroLighthouse
+orcid: "https://orcid.org/0009-0003-8169-6619"
+date-released: 2025-05-30
+version: 1.0.0
+url: "https://github.com/carneyshea/Recursive-Collapse-Geometry"
+doi: "10.5281/zenodo.15558528"
+license: Apache-2.0
+keywords:
+
+signal collapse
+
+recursive geometry
+
+flat loop
+
+TSCS
+
+energy convergence
+
+solar flare detection
+
+seismic signal analysis
+
+temporaxis
+
+references:
+
+type: article
+authors:
+
+family-names: Gurnett
+given-names: D.
+title: "Cassini RPWS Instrument: Type III Solar Radio Bursts"
+publisher: University of Iowa Radio and Plasma Wave Group
+year: 2003
+url: "https://space-audio.org/typeIII.html"
+
+type: dataset
+authors:
+
+name: IRIS Data Services
+title: "SeisSound Earthquake Audio Collection"
+year: 2025
+url: "https://ds.iris.edu/dms/products/seissound/"
+
+type: software
+authors:
+
+name: Pryately, C.
+title: "White noise generated via NumPy"
+year: 2025
+url: "https://github.com/yourusername/RCG"
+
+type: dataset
+authors:
+
+name: jfournier18
+title: "Dolphin noise sample"
+publisher: Freesound.org
+year: 2019
+url: "https://freesound.org/people/jfournier18/sounds/456151/"
+
+type: software
+authors:
+
+name: Pryately, C.
+title: "Recorded Human Emotional Voice Sample (self-recorded)"
+year: 2025
+url: "https://github.com/carneyshea"
