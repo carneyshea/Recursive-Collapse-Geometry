@@ -71,3 +71,4 @@ For Temporaxis-related licensing or collaboration inquiries: [neurolighthouse@gm
   year={2025},
 DOI 10.5281/zenodo.15558527.},
   howpublished={\url{https://github.com/carneyshea/Recursive-Collapse-Geometry}}
+https://zenodo.org/records/15558528
